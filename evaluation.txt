@@ -1,0 +1,775 @@
+<< Bandwidth: 1.5 - Error Rate: 0.0024102134688438514 - Packet Size: 256 >>
+Throughput: 22277.6 Bps
+Packet Transfer Ratio: 0.5062573789846517
+Average End to End Delay: 0.06015688889239872
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0024809765583911954 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5120109814687714
+Average End to End Delay: 0.06147403722802748
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.003799695261717891 - Packet Size: 256 >>
+Throughput: 22891.2 Bps
+Packet Transfer Ratio: 0.506786289394985
+Average End to End Delay: 0.05938480903680394
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.004423905784938797 - Packet Size: 256 >>
+Throughput: 23213.6 Bps
+Packet Transfer Ratio: 0.5070358601906492
+Average End to End Delay: 0.06419449773950384
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.005724596340770179 - Packet Size: 256 >>
+Throughput: 23650.4 Bps
+Packet Transfer Ratio: 0.5053285968028419
+Average End to End Delay: 0.06419533804343726
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.006497868862481289 - Packet Size: 256 >>
+Throughput: 23515.2 Bps
+Packet Transfer Ratio: 0.5053595355069227
+Average End to End Delay: 0.06290658014981076
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.00711855602458713 - Packet Size: 256 >>
+Throughput: 22069.6 Bps
+Packet Transfer Ratio: 0.4992947813822285
+Average End to End Delay: 0.06814411525898206
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007884875322315446 - Packet Size: 256 >>
+Throughput: 21882.4 Bps
+Packet Transfer Ratio: 0.4956460343610261
+Average End to End Delay: 0.057765777515869164
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007905366539710457 - Packet Size: 256 >>
+Throughput: 22485.6 Bps
+Packet Transfer Ratio: 0.49907749077490776
+Average End to End Delay: 0.06370053764341438
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009542277007509177 - Packet Size: 256 >>
+Throughput: 22204.8 Bps
+Packet Transfer Ratio: 0.5056791292001893
+Average End to End Delay: 0.06449883794879521
+===================
+<< Bandwidth: 55 - Error Rate: 0.0024102134688438514 - Packet Size: 256 >>
+Throughput: 22277.6 Bps
+Packet Transfer Ratio: 0.5062573789846517
+Average End to End Delay: 0.06015688889239872
+===================
+<< Bandwidth: 55 - Error Rate: 0.0024809765583911954 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5120109814687714
+Average End to End Delay: 0.06147403722802748
+===================
+<< Bandwidth: 55 - Error Rate: 0.003799695261717891 - Packet Size: 256 >>
+Throughput: 22891.2 Bps
+Packet Transfer Ratio: 0.506786289394985
+Average End to End Delay: 0.05938480903680394
+===================
+<< Bandwidth: 55 - Error Rate: 0.004423905784938797 - Packet Size: 256 >>
+Throughput: 23213.6 Bps
+Packet Transfer Ratio: 0.5070358601906492
+Average End to End Delay: 0.06419449773950384
+===================
+<< Bandwidth: 55 - Error Rate: 0.005724596340770179 - Packet Size: 256 >>
+Throughput: 23650.4 Bps
+Packet Transfer Ratio: 0.5053285968028419
+Average End to End Delay: 0.06419533804343726
+===================
+<< Bandwidth: 55 - Error Rate: 0.006497868862481289 - Packet Size: 256 >>
+Throughput: 23515.2 Bps
+Packet Transfer Ratio: 0.5053595355069227
+Average End to End Delay: 0.06290658014981076
+===================
+<< Bandwidth: 55 - Error Rate: 0.00711855602458713 - Packet Size: 256 >>
+Throughput: 22069.6 Bps
+Packet Transfer Ratio: 0.4992947813822285
+Average End to End Delay: 0.06814411525898206
+===================
+<< Bandwidth: 55 - Error Rate: 0.007884875322315446 - Packet Size: 256 >>
+Throughput: 21882.4 Bps
+Packet Transfer Ratio: 0.4956460343610261
+Average End to End Delay: 0.057765777515869164
+===================
+<< Bandwidth: 55 - Error Rate: 0.007905366539710457 - Packet Size: 256 >>
+Throughput: 22485.6 Bps
+Packet Transfer Ratio: 0.49907749077490776
+Average End to End Delay: 0.06370053764341438
+===================
+<< Bandwidth: 55 - Error Rate: 0.009542277007509177 - Packet Size: 256 >>
+Throughput: 22204.8 Bps
+Packet Transfer Ratio: 0.5056791292001893
+Average End to End Delay: 0.06449883794879521
+===================
+<< Bandwidth: 155 - Error Rate: 0.0024102134688438514 - Packet Size: 256 >>
+Throughput: 22277.6 Bps
+Packet Transfer Ratio: 0.5062573789846517
+Average End to End Delay: 0.06015688889239872
+===================
+<< Bandwidth: 155 - Error Rate: 0.0024809765583911954 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5120109814687714
+Average End to End Delay: 0.06147403722802748
+===================
+<< Bandwidth: 155 - Error Rate: 0.003799695261717891 - Packet Size: 256 >>
+Throughput: 22891.2 Bps
+Packet Transfer Ratio: 0.506786289394985
+Average End to End Delay: 0.05938480903680394
+===================
+<< Bandwidth: 155 - Error Rate: 0.004423905784938797 - Packet Size: 256 >>
+Throughput: 23213.6 Bps
+Packet Transfer Ratio: 0.5070358601906492
+Average End to End Delay: 0.06419449773950384
+===================
+<< Bandwidth: 155 - Error Rate: 0.005724596340770179 - Packet Size: 256 >>
+Throughput: 23650.4 Bps
+Packet Transfer Ratio: 0.5053285968028419
+Average End to End Delay: 0.06419533804343726
+===================
+<< Bandwidth: 155 - Error Rate: 0.006497868862481289 - Packet Size: 256 >>
+Throughput: 23515.2 Bps
+Packet Transfer Ratio: 0.5053595355069227
+Average End to End Delay: 0.06290658014981076
+===================
+<< Bandwidth: 155 - Error Rate: 0.00711855602458713 - Packet Size: 256 >>
+Throughput: 22069.6 Bps
+Packet Transfer Ratio: 0.4992947813822285
+Average End to End Delay: 0.06814411525898206
+===================
+<< Bandwidth: 155 - Error Rate: 0.007884875322315446 - Packet Size: 256 >>
+Throughput: 21882.4 Bps
+Packet Transfer Ratio: 0.4956460343610261
+Average End to End Delay: 0.057765777515869164
+===================
+<< Bandwidth: 155 - Error Rate: 0.007905366539710457 - Packet Size: 256 >>
+Throughput: 22485.6 Bps
+Packet Transfer Ratio: 0.49907749077490776
+Average End to End Delay: 0.06370053764341438
+===================
+<< Bandwidth: 155 - Error Rate: 0.009542277007509177 - Packet Size: 256 >>
+Throughput: 22204.8 Bps
+Packet Transfer Ratio: 0.5056791292001893
+Average End to End Delay: 0.06449883794879521
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0024102134688438514 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4905910416114498
+Average End to End Delay: 0.06258982051145877
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0024809765583911954 - Packet Size: 512 >>
+Throughput: 18221.6 Bps
+Packet Transfer Ratio: 0.489533910131175
+Average End to End Delay: 0.06426700241267021
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.003799695261717891 - Packet Size: 512 >>
+Throughput: 19937.6 Bps
+Packet Transfer Ratio: 0.48422911935402474
+Average End to End Delay: 0.05479611965982706
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.004423905784938797 - Packet Size: 512 >>
+Throughput: 19688.0 Bps
+Packet Transfer Ratio: 0.49374674309536215
+Average End to End Delay: 0.0629418906466334
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.005724596340770179 - Packet Size: 512 >>
+Throughput: 20208.0 Bps
+Packet Transfer Ratio: 0.48943130347257174
+Average End to End Delay: 0.06303594322155366
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.006497868862481289 - Packet Size: 512 >>
+Throughput: 19199.2 Bps
+Packet Transfer Ratio: 0.4861878453038674
+Average End to End Delay: 0.06346339249776786
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.00711855602458713 - Packet Size: 512 >>
+Throughput: 19854.4 Bps
+Packet Transfer Ratio: 0.484779299847793
+Average End to End Delay: 0.06153817760800446
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007884875322315446 - Packet Size: 512 >>
+Throughput: 19449.6 Bps
+Packet Transfer Ratio: 0.4807593637762955
+Average End to End Delay: 0.06319222615295403
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007905366539710457 - Packet Size: 512 >>
+Throughput: 19668.0 Bps
+Packet Transfer Ratio: 0.49105986006737495
+Average End to End Delay: 0.06150563719192485
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009542277007509177 - Packet Size: 512 >>
+Throughput: 19854.4 Bps
+Packet Transfer Ratio: 0.487251402345742
+Average End to End Delay: 0.06251604480503853
+===================
+<< Bandwidth: 55 - Error Rate: 0.0024102134688438514 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4905910416114498
+Average End to End Delay: 0.06258982051145877
+===================
+<< Bandwidth: 55 - Error Rate: 0.0024809765583911954 - Packet Size: 512 >>
+Throughput: 18221.6 Bps
+Packet Transfer Ratio: 0.489533910131175
+Average End to End Delay: 0.06426700241267021
+===================
+<< Bandwidth: 55 - Error Rate: 0.003799695261717891 - Packet Size: 512 >>
+Throughput: 19937.6 Bps
+Packet Transfer Ratio: 0.48422911935402474
+Average End to End Delay: 0.05479611965982706
+===================
+<< Bandwidth: 55 - Error Rate: 0.004423905784938797 - Packet Size: 512 >>
+Throughput: 19688.0 Bps
+Packet Transfer Ratio: 0.49374674309536215
+Average End to End Delay: 0.0629418906466334
+===================
+<< Bandwidth: 55 - Error Rate: 0.005724596340770179 - Packet Size: 512 >>
+Throughput: 20208.0 Bps
+Packet Transfer Ratio: 0.48943130347257174
+Average End to End Delay: 0.06303594322155366
+===================
+<< Bandwidth: 55 - Error Rate: 0.006497868862481289 - Packet Size: 512 >>
+Throughput: 19199.2 Bps
+Packet Transfer Ratio: 0.4861878453038674
+Average End to End Delay: 0.06346339249776786
+===================
+<< Bandwidth: 55 - Error Rate: 0.00711855602458713 - Packet Size: 512 >>
+Throughput: 19854.4 Bps
+Packet Transfer Ratio: 0.484779299847793
+Average End to End Delay: 0.06153817760800446
+===================
+<< Bandwidth: 55 - Error Rate: 0.007884875322315446 - Packet Size: 512 >>
+Throughput: 19449.6 Bps
+Packet Transfer Ratio: 0.4807593637762955
+Average End to End Delay: 0.06319222615295403
+===================
+<< Bandwidth: 55 - Error Rate: 0.007905366539710457 - Packet Size: 512 >>
+Throughput: 19668.0 Bps
+Packet Transfer Ratio: 0.49105986006737495
+Average End to End Delay: 0.06150563719192485
+===================
+<< Bandwidth: 55 - Error Rate: 0.009542277007509177 - Packet Size: 512 >>
+Throughput: 19854.4 Bps
+Packet Transfer Ratio: 0.487251402345742
+Average End to End Delay: 0.06251604480503853
+===================
+<< Bandwidth: 155 - Error Rate: 0.0024102134688438514 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4905910416114498
+Average End to End Delay: 0.06258982051145877
+===================
+<< Bandwidth: 155 - Error Rate: 0.0024809765583911954 - Packet Size: 512 >>
+Throughput: 18221.6 Bps
+Packet Transfer Ratio: 0.489533910131175
+Average End to End Delay: 0.06426700241267021
+===================
+<< Bandwidth: 155 - Error Rate: 0.003799695261717891 - Packet Size: 512 >>
+Throughput: 19937.6 Bps
+Packet Transfer Ratio: 0.48422911935402474
+Average End to End Delay: 0.05479611965982706
+===================
+<< Bandwidth: 155 - Error Rate: 0.004423905784938797 - Packet Size: 512 >>
+Throughput: 19688.0 Bps
+Packet Transfer Ratio: 0.49374674309536215
+Average End to End Delay: 0.0629418906466334
+===================
+<< Bandwidth: 155 - Error Rate: 0.005724596340770179 - Packet Size: 512 >>
+Throughput: 18304.8 Bps
+Packet Transfer Ratio: 0.4899888765294772
+Average End to End Delay: 0.06357868146428577
+===================
+<< Bandwidth: 155 - Error Rate: 0.006497868862481289 - Packet Size: 512 >>
+Throughput: 19199.2 Bps
+Packet Transfer Ratio: 0.4861878453038674
+Average End to End Delay: 0.06346339249776786
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0012568189607664402 - Packet Size: 256 >>
+Throughput: 23536.0 Bps
+Packet Transfer Ratio: 0.4994487320837927
+Average End to End Delay: 0.060266745510479725
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.002080755788526425 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5010073875083949
+Average End to End Delay: 0.05942487414039184
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0032815968626933286 - Packet Size: 256 >>
+Throughput: 22839.2 Bps
+Packet Transfer Ratio: 0.4949335735194776
+Average End to End Delay: 0.05790012765778219
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.004828765082396162 - Packet Size: 256 >>
+Throughput: 22766.4 Bps
+Packet Transfer Ratio: 0.5025229357798165
+Average End to End Delay: 0.06373072108313182
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0067872259529424715 - Packet Size: 256 >>
+Throughput: 22631.2 Bps
+Packet Transfer Ratio: 0.49691991786447637
+Average End to End Delay: 0.05804328857738952
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007297092599896912 - Packet Size: 256 >>
+Throughput: 22007.2 Bps
+Packet Transfer Ratio: 0.4942823803967328
+Average End to End Delay: 0.06192207411767679
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007859589588853633 - Packet Size: 256 >>
+Throughput: 21986.4 Bps
+Packet Transfer Ratio: 0.4932400932400932
+Average End to End Delay: 0.06445720131478692
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009148199856750564 - Packet Size: 256 >>
+Throughput: 21580.8 Bps
+Packet Transfer Ratio: 0.48426206574959196
+Average End to End Delay: 0.0679014508006027
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.00916372106253582 - Packet Size: 256 >>
+Throughput: 22059.2 Bps
+Packet Transfer Ratio: 0.503199810381607
+Average End to End Delay: 0.0647945028526855
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009758161947363387 - Packet Size: 256 >>
+Throughput: 21570.4 Bps
+Packet Transfer Ratio: 0.5057247259439708
+Average End to End Delay: 0.06632134213095225
+===================
+<< Bandwidth: 55 - Error Rate: 0.0012568189607664402 - Packet Size: 256 >>
+Throughput: 23536.0 Bps
+Packet Transfer Ratio: 0.4994487320837927
+Average End to End Delay: 0.060266745510479725
+===================
+<< Bandwidth: 55 - Error Rate: 0.002080755788526425 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5010073875083949
+Average End to End Delay: 0.05942487414039184
+===================
+<< Bandwidth: 55 - Error Rate: 0.0032815968626933286 - Packet Size: 256 >>
+Throughput: 22839.2 Bps
+Packet Transfer Ratio: 0.4949335735194776
+Average End to End Delay: 0.05790012765778219
+===================
+<< Bandwidth: 55 - Error Rate: 0.004828765082396162 - Packet Size: 256 >>
+Throughput: 22766.4 Bps
+Packet Transfer Ratio: 0.5025229357798165
+Average End to End Delay: 0.06373072108313182
+===================
+<< Bandwidth: 55 - Error Rate: 0.0067872259529424715 - Packet Size: 256 >>
+Throughput: 22631.2 Bps
+Packet Transfer Ratio: 0.49691991786447637
+Average End to End Delay: 0.05804328857738952
+===================
+<< Bandwidth: 55 - Error Rate: 0.007297092599896912 - Packet Size: 256 >>
+Throughput: 22007.2 Bps
+Packet Transfer Ratio: 0.4942823803967328
+Average End to End Delay: 0.06192207411767679
+===================
+<< Bandwidth: 55 - Error Rate: 0.007859589588853633 - Packet Size: 256 >>
+Throughput: 21986.4 Bps
+Packet Transfer Ratio: 0.4932400932400932
+Average End to End Delay: 0.06445720131478692
+===================
+<< Bandwidth: 55 - Error Rate: 0.009148199856750564 - Packet Size: 256 >>
+Throughput: 21580.8 Bps
+Packet Transfer Ratio: 0.48426206574959196
+Average End to End Delay: 0.0679014508006027
+===================
+<< Bandwidth: 55 - Error Rate: 0.00916372106253582 - Packet Size: 256 >>
+Throughput: 22059.2 Bps
+Packet Transfer Ratio: 0.503199810381607
+Average End to End Delay: 0.0647945028526855
+===================
+<< Bandwidth: 55 - Error Rate: 0.009758161947363387 - Packet Size: 256 >>
+Throughput: 21570.4 Bps
+Packet Transfer Ratio: 0.5057247259439708
+Average End to End Delay: 0.06632134213095225
+===================
+<< Bandwidth: 155 - Error Rate: 0.0012568189607664402 - Packet Size: 256 >>
+Throughput: 23536.0 Bps
+Packet Transfer Ratio: 0.4994487320837927
+Average End to End Delay: 0.060266745510479725
+===================
+<< Bandwidth: 155 - Error Rate: 0.002080755788526425 - Packet Size: 256 >>
+Throughput: 23255.2 Bps
+Packet Transfer Ratio: 0.5010073875083949
+Average End to End Delay: 0.05942487414039184
+===================
+<< Bandwidth: 155 - Error Rate: 0.0032815968626933286 - Packet Size: 256 >>
+Throughput: 22839.2 Bps
+Packet Transfer Ratio: 0.4949335735194776
+Average End to End Delay: 0.05790012765778219
+===================
+<< Bandwidth: 155 - Error Rate: 0.004828765082396162 - Packet Size: 256 >>
+Throughput: 22766.4 Bps
+Packet Transfer Ratio: 0.5025229357798165
+Average End to End Delay: 0.06373072108313182
+===================
+<< Bandwidth: 155 - Error Rate: 0.0067872259529424715 - Packet Size: 256 >>
+Throughput: 22631.2 Bps
+Packet Transfer Ratio: 0.49691991786447637
+Average End to End Delay: 0.05804328857738952
+===================
+<< Bandwidth: 155 - Error Rate: 0.007297092599896912 - Packet Size: 256 >>
+Throughput: 22007.2 Bps
+Packet Transfer Ratio: 0.4942823803967328
+Average End to End Delay: 0.06192207411767679
+===================
+<< Bandwidth: 155 - Error Rate: 0.007859589588853633 - Packet Size: 256 >>
+Throughput: 21986.4 Bps
+Packet Transfer Ratio: 0.4932400932400932
+Average End to End Delay: 0.06445720131478692
+===================
+<< Bandwidth: 155 - Error Rate: 0.009148199856750564 - Packet Size: 256 >>
+Throughput: 21580.8 Bps
+Packet Transfer Ratio: 0.48426206574959196
+Average End to End Delay: 0.0679014508006027
+===================
+<< Bandwidth: 155 - Error Rate: 0.00916372106253582 - Packet Size: 256 >>
+Throughput: 22059.2 Bps
+Packet Transfer Ratio: 0.503199810381607
+Average End to End Delay: 0.0647945028526855
+===================
+<< Bandwidth: 155 - Error Rate: 0.009758161947363387 - Packet Size: 256 >>
+Throughput: 21570.4 Bps
+Packet Transfer Ratio: 0.5057247259439708
+Average End to End Delay: 0.06632134213095225
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0012568189607664402 - Packet Size: 512 >>
+Throughput: 20874.4 Bps
+Packet Transfer Ratio: 0.49593094944512944
+Average End to End Delay: 0.06195341670302721
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.002080755788526425 - Packet Size: 512 >>
+Throughput: 20592.8 Bps
+Packet Transfer Ratio: 0.49132374814080315
+Average End to End Delay: 0.05977245815186548
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0032815968626933286 - Packet Size: 512 >>
+Throughput: 20832.0 Bps
+Packet Transfer Ratio: 0.5045294413688979
+Average End to End Delay: 0.06408087827331557
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.004828765082396162 - Packet Size: 512 >>
+Throughput: 20364.0 Bps
+Packet Transfer Ratio: 0.4791004644341237
+Average End to End Delay: 0.06206264600786576
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0067872259529424715 - Packet Size: 512 >>
+Throughput: 19958.4 Bps
+Packet Transfer Ratio: 0.4889284805293968
+Average End to End Delay: 0.05984457769773865
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007297092599896912 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4904610492845787
+Average End to End Delay: 0.06094372874542333
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007859589588853633 - Packet Size: 512 >>
+Throughput: 19324.0 Bps
+Packet Transfer Ratio: 0.48074437839234946
+Average End to End Delay: 0.06323883754606378
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009148199856750564 - Packet Size: 512 >>
+Throughput: 19563.2 Bps
+Packet Transfer Ratio: 0.4883298755186722
+Average End to End Delay: 0.06918111612338743
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.00916372106253582 - Packet Size: 512 >>
+Throughput: 18939.2 Bps
+Packet Transfer Ratio: 0.4802423603793467
+Average End to End Delay: 0.06633807534435572
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009758161947363387 - Packet Size: 512 >>
+Throughput: 19240.8 Bps
+Packet Transfer Ratio: 0.4821661025774538
+Average End to End Delay: 0.06525317331383582
+===================
+<< Bandwidth: 55 - Error Rate: 0.0012568189607664402 - Packet Size: 512 >>
+Throughput: 20874.4 Bps
+Packet Transfer Ratio: 0.49593094944512944
+Average End to End Delay: 0.06195341670302721
+===================
+<< Bandwidth: 55 - Error Rate: 0.002080755788526425 - Packet Size: 512 >>
+Throughput: 20592.8 Bps
+Packet Transfer Ratio: 0.49132374814080315
+Average End to End Delay: 0.05977245815186548
+===================
+<< Bandwidth: 55 - Error Rate: 0.0032815968626933286 - Packet Size: 512 >>
+Throughput: 20832.0 Bps
+Packet Transfer Ratio: 0.5045294413688979
+Average End to End Delay: 0.06408087827331557
+===================
+<< Bandwidth: 55 - Error Rate: 0.004828765082396162 - Packet Size: 512 >>
+Throughput: 20364.0 Bps
+Packet Transfer Ratio: 0.4791004644341237
+Average End to End Delay: 0.06206264600786576
+===================
+<< Bandwidth: 55 - Error Rate: 0.0067872259529424715 - Packet Size: 512 >>
+Throughput: 19958.4 Bps
+Packet Transfer Ratio: 0.4889284805293968
+Average End to End Delay: 0.05984457769773865
+===================
+<< Bandwidth: 55 - Error Rate: 0.007297092599896912 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4904610492845787
+Average End to End Delay: 0.06094372874542333
+===================
+<< Bandwidth: 55 - Error Rate: 0.007859589588853633 - Packet Size: 512 >>
+Throughput: 19324.0 Bps
+Packet Transfer Ratio: 0.48074437839234946
+Average End to End Delay: 0.06323883754606378
+===================
+<< Bandwidth: 55 - Error Rate: 0.009148199856750564 - Packet Size: 512 >>
+Throughput: 19563.2 Bps
+Packet Transfer Ratio: 0.4883298755186722
+Average End to End Delay: 0.06918111612338743
+===================
+<< Bandwidth: 55 - Error Rate: 0.00916372106253582 - Packet Size: 512 >>
+Throughput: 18939.2 Bps
+Packet Transfer Ratio: 0.4802423603793467
+Average End to End Delay: 0.06633807534435572
+===================
+<< Bandwidth: 55 - Error Rate: 0.009758161947363387 - Packet Size: 512 >>
+Throughput: 19240.8 Bps
+Packet Transfer Ratio: 0.4821661025774538
+Average End to End Delay: 0.06525317331383582
+===================
+<< Bandwidth: 155 - Error Rate: 0.0012568189607664402 - Packet Size: 512 >>
+Throughput: 20874.4 Bps
+Packet Transfer Ratio: 0.49593094944512944
+Average End to End Delay: 0.06195341670302721
+===================
+<< Bandwidth: 155 - Error Rate: 0.002080755788526425 - Packet Size: 512 >>
+Throughput: 20592.8 Bps
+Packet Transfer Ratio: 0.49132374814080315
+Average End to End Delay: 0.05977245815186548
+===================
+<< Bandwidth: 155 - Error Rate: 0.0032815968626933286 - Packet Size: 512 >>
+Throughput: 20832.0 Bps
+Packet Transfer Ratio: 0.5045294413688979
+Average End to End Delay: 0.06408087827331557
+===================
+<< Bandwidth: 155 - Error Rate: 0.004828765082396162 - Packet Size: 512 >>
+Throughput: 20364.0 Bps
+Packet Transfer Ratio: 0.4791004644341237
+Average End to End Delay: 0.06206264600786576
+===================
+<< Bandwidth: 155 - Error Rate: 0.0067872259529424715 - Packet Size: 512 >>
+Throughput: 19958.4 Bps
+Packet Transfer Ratio: 0.4889284805293968
+Average End to End Delay: 0.05984457769773865
+===================
+<< Bandwidth: 155 - Error Rate: 0.007297092599896912 - Packet Size: 512 >>
+Throughput: 19230.4 Bps
+Packet Transfer Ratio: 0.4904610492845787
+Average End to End Delay: 0.06094372874542333
+===================
+<< Bandwidth: 155 - Error Rate: 0.007859589588853633 - Packet Size: 512 >>
+Throughput: 19324.0 Bps
+Packet Transfer Ratio: 0.48074437839234946
+Average End to End Delay: 0.06323883754606378
+===================
+<< Bandwidth: 155 - Error Rate: 0.009148199856750564 - Packet Size: 512 >>
+Throughput: 19563.2 Bps
+Packet Transfer Ratio: 0.4883298755186722
+Average End to End Delay: 0.06918111612338743
+===================
+<< Bandwidth: 155 - Error Rate: 0.00916372106253582 - Packet Size: 512 >>
+Throughput: 18939.2 Bps
+Packet Transfer Ratio: 0.4802423603793467
+Average End to End Delay: 0.06633807534435572
+===================
+<< Bandwidth: 155 - Error Rate: 0.009758161947363387 - Packet Size: 512 >>
+Throughput: 19240.8 Bps
+Packet Transfer Ratio: 0.4821661025774538
+Average End to End Delay: 0.06525317331383582
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0012568189607664402 - Packet Size: 1024 >>
+Throughput: 16942.4 Bps
+Packet Transfer Ratio: 0.4865751789976134
+Average End to End Delay: 0.061671464945701256
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.002080755788526425 - Packet Size: 1024 >>
+Throughput: 16464.0 Bps
+Packet Transfer Ratio: 0.4727110050700865
+Average End to End Delay: 0.059310011245625495
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0032815968626933286 - Packet Size: 1024 >>
+Throughput: 16256.0 Bps
+Packet Transfer Ratio: 0.47539489671931956
+Average End to End Delay: 0.05847056486627131
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.004828765082396162 - Packet Size: 1024 >>
+Throughput: 15320.0 Bps
+Packet Transfer Ratio: 0.4707947654005745
+Average End to End Delay: 0.06165888157442345
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.0067872259529424715 - Packet Size: 1024 >>
+Throughput: 15684.4 Bps
+Packet Transfer Ratio: 0.468091697645601
+Average End to End Delay: 0.06047107152159014
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007297092599896912 - Packet Size: 1024 >>
+Throughput: 15881.6 Bps
+Packet Transfer Ratio: 0.4637549287230816
+Average End to End Delay: 0.0604638119893118
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.007859589588853633 - Packet Size: 1024 >>
+Throughput: 15112.0 Bps
+Packet Transfer Ratio: 0.4737870400521003
+Average End to End Delay: 0.060402784277056205
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009148199856750564 - Packet Size: 1024 >>
+Throughput: 16391.2 Bps
+Packet Transfer Ratio: 0.48794063079777367
+Average End to End Delay: 0.061028133046479874
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.00916372106253582 - Packet Size: 1024 >>
+Throughput: 15819.2 Bps
+Packet Transfer Ratio: 0.47445482866043615
+Average End to End Delay: 0.06699883187371317
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.009758161947363387 - Packet Size: 1024 >>
+Throughput: 15382.4 Bps
+Packet Transfer Ratio: 0.4658697703680403
+Average End to End Delay: 0.06342469910606065
+===================
+<< Bandwidth: 55 - Error Rate: 0.0012568189607664402 - Packet Size: 1024 >>
+Throughput: 16942.4 Bps
+Packet Transfer Ratio: 0.4865751789976134
+Average End to End Delay: 0.061671464945701256
+===================
+<< Bandwidth: 55 - Error Rate: 0.002080755788526425 - Packet Size: 1024 >>
+Throughput: 16464.0 Bps
+Packet Transfer Ratio: 0.4727110050700865
+Average End to End Delay: 0.059310011245625495
+===================
+<< Bandwidth: 55 - Error Rate: 0.0032815968626933286 - Packet Size: 1024 >>
+Throughput: 16256.0 Bps
+Packet Transfer Ratio: 0.47539489671931956
+Average End to End Delay: 0.05847056486627131
+===================
+<< Bandwidth: 55 - Error Rate: 0.004828765082396162 - Packet Size: 1024 >>
+Throughput: 15320.0 Bps
+Packet Transfer Ratio: 0.4707947654005745
+Average End to End Delay: 0.06165888157442345
+===================
+<< Bandwidth: 55 - Error Rate: 0.0067872259529424715 - Packet Size: 1024 >>
+Throughput: 15684.4 Bps
+Packet Transfer Ratio: 0.468091697645601
+Average End to End Delay: 0.06047107152159014
+===================
+<< Bandwidth: 55 - Error Rate: 0.007297092599896912 - Packet Size: 1024 >>
+Throughput: 15881.6 Bps
+Packet Transfer Ratio: 0.4637549287230816
+Average End to End Delay: 0.0604638119893118
+===================
+<< Bandwidth: 55 - Error Rate: 0.007859589588853633 - Packet Size: 1024 >>
+Throughput: 15112.0 Bps
+Packet Transfer Ratio: 0.4737870400521003
+Average End to End Delay: 0.060402784277056205
+===================
+<< Bandwidth: 55 - Error Rate: 0.009148199856750564 - Packet Size: 1024 >>
+Throughput: 16391.2 Bps
+Packet Transfer Ratio: 0.48794063079777367
+Average End to End Delay: 0.061028133046479874
+===================
+<< Bandwidth: 55 - Error Rate: 0.00916372106253582 - Packet Size: 1024 >>
+Throughput: 15819.2 Bps
+Packet Transfer Ratio: 0.47445482866043615
+Average End to End Delay: 0.06699883187371317
+===================
+<< Bandwidth: 55 - Error Rate: 0.009758161947363387 - Packet Size: 1024 >>
+Throughput: 15382.4 Bps
+Packet Transfer Ratio: 0.4658697703680403
+Average End to End Delay: 0.06342469910606065
+===================
+<< Bandwidth: 155 - Error Rate: 0.0012568189607664402 - Packet Size: 1024 >>
+Throughput: 16942.4 Bps
+Packet Transfer Ratio: 0.4865751789976134
+Average End to End Delay: 0.061671464945701256
+===================
+<< Bandwidth: 155 - Error Rate: 0.002080755788526425 - Packet Size: 1024 >>
+Throughput: 16464.0 Bps
+Packet Transfer Ratio: 0.4727110050700865
+Average End to End Delay: 0.059310011245625495
+===================
+<< Bandwidth: 155 - Error Rate: 0.0032815968626933286 - Packet Size: 1024 >>
+Throughput: 16256.0 Bps
+Packet Transfer Ratio: 0.47539489671931956
+Average End to End Delay: 0.05847056486627131
+===================
+<< Bandwidth: 155 - Error Rate: 0.004828765082396162 - Packet Size: 1024 >>
+Throughput: 15320.0 Bps
+Packet Transfer Ratio: 0.4707947654005745
+Average End to End Delay: 0.06165888157442345
+===================
+<< Bandwidth: 155 - Error Rate: 0.0067872259529424715 - Packet Size: 1024 >>
+Throughput: 15684.4 Bps
+Packet Transfer Ratio: 0.468091697645601
+Average End to End Delay: 0.06047107152159014
+===================
+<< Bandwidth: 155 - Error Rate: 0.007297092599896912 - Packet Size: 1024 >>
+Throughput: 15881.6 Bps
+Packet Transfer Ratio: 0.4637549287230816
+Average End to End Delay: 0.0604638119893118
+===================
+<< Bandwidth: 155 - Error Rate: 0.007859589588853633 - Packet Size: 1024 >>
+Throughput: 15112.0 Bps
+Packet Transfer Ratio: 0.4737870400521003
+Average End to End Delay: 0.060402784277056205
+===================
+<< Bandwidth: 155 - Error Rate: 0.009148199856750564 - Packet Size: 1024 >>
+Throughput: 16391.2 Bps
+Packet Transfer Ratio: 0.48794063079777367
+Average End to End Delay: 0.061028133046479874
+===================
+<< Bandwidth: 155 - Error Rate: 0.00916372106253582 - Packet Size: 1024 >>
+Throughput: 15819.2 Bps
+Packet Transfer Ratio: 0.47445482866043615
+Average End to End Delay: 0.06699883187371317
+===================
+<< Bandwidth: 155 - Error Rate: 0.009758161947363387 - Packet Size: 1024 >>
+Throughput: 15382.4 Bps
+Packet Transfer Ratio: 0.4658697703680403
+Average End to End Delay: 0.06342469910606065
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.001 - Packet Size: 256 >>
+Throughput: 23733.6 Bps
+Packet Transfer Ratio: 0.5054215534410268
+Average End to End Delay: 0.05867858481927703
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.001 - Packet Size: 512 >>
+Throughput: 20281.6 Bps
+Packet Transfer Ratio: 0.5001279754287177
+Average End to End Delay: 0.058386604906572506
+===================
+<< Bandwidth: 1.5 - Error Rate: 0.001 - Packet Size: 1024 >>
+Throughput: 16401.6 Bps
+Packet Transfer Ratio: 0.4670215912451937
+Average End to End Delay: 0.058416787797297365
+===================
+<< Bandwidth: 55 - Error Rate: 0.001 - Packet Size: 256 >>
+Throughput: 23733.6 Bps
+Packet Transfer Ratio: 0.5054215534410268
+Average End to End Delay: 0.05867858481927703
+===================
+<< Bandwidth: 55 - Error Rate: 0.001 - Packet Size: 512 >>
+Throughput: 20281.6 Bps
+Packet Transfer Ratio: 0.5001279754287177
+Average End to End Delay: 0.058386604906572506
+===================
+<< Bandwidth: 55 - Error Rate: 0.001 - Packet Size: 1024 >>
+Throughput: 16401.6 Bps
+Packet Transfer Ratio: 0.4670215912451937
+Average End to End Delay: 0.058416787797297365
+===================
+<< Bandwidth: 155 - Error Rate: 0.001 - Packet Size: 256 >>
+Throughput: 23733.6 Bps
+Packet Transfer Ratio: 0.5054215534410268
+Average End to End Delay: 0.05867858481927703
+===================
+<< Bandwidth: 155 - Error Rate: 0.001 - Packet Size: 512 >>
+Throughput: 20281.6 Bps
+Packet Transfer Ratio: 0.5001279754287177
+Average End to End Delay: 0.058386604906572506
+===================
+<< Bandwidth: 155 - Error Rate: 0.001 - Packet Size: 1024 >>
+Throughput: 16401.6 Bps
+Packet Transfer Ratio: 0.4670215912451937
+Average End to End Delay: 0.058416787797297365
+===================
