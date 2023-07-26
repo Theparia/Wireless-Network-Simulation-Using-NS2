@@ -11,3 +11,9 @@ The following steps have been taken in this project:
   * Packet Transfer Ratio
   * Average End-to-End Delay
 * Plotting different graphs based on the parsed file
+
+<br>
+
+### Contributors
+* [Paria Khoshtab](https://github.com/Theparia/)
+* [Parnian Fazel](https://github.com/parnianf/)
